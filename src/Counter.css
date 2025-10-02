@@ -1,0 +1,16 @@
+/* Ejercicio 1 - Counter */
+.counter {
+  text-align: center;
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+.counter-controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin: 15px 0;
+}
