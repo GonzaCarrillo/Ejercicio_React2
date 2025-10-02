@@ -1,6 +1,6 @@
 import Counter from "./Counter";
 import TodoList from "./ToDoList";
-
+import ProductCatalog from "./ProductCatalog";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <h1>Ejercicio React</h1>
       <Counter />
       <TodoList /> 
+      <ProductCatalog/>
     </div>
   );
 }
